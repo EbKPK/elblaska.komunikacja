@@ -1,6 +1,10 @@
+.body
+{
+    margin: 0px;
+}
 .tlo img
 {
-    attachment: fixed ;
+    position: fixed;
     width: 100px;
     height: 200px;
     object-fit: none;
