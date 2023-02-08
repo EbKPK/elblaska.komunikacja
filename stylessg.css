@@ -1,6 +1,6 @@
 .tlo img
 {
-    selektor { background-attachment: fixed }
+    battachment: fixed ;
     width: 100px;
     height: 200px;
     object-fit: none;
