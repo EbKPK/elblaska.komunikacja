@@ -1,4 +1,6 @@
 .tlo
 {
     selektor { background-attachment: fixed }
+    background-image: url("tlo.jpg");
+    background-color: #cccccc;
 }
