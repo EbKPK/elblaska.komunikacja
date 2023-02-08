@@ -1,7 +1,7 @@
-.tlo
+.tlo img
 {
     selektor { background-attachment: fixed }
-    image-width: 100px;
+    width: 100px;
     height: 200px;
     object-fit: cover;
 }
