@@ -55,7 +55,7 @@
 	background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-	filter: blur(2px);
+    filter: blur(2px);
 	z-index: -1;
 	width: 100%;
 	opacity: 0,9;
@@ -77,4 +77,19 @@
 .tlor
 {
 	position: relative;
+}
+table
+{
+  border-collapse: collapse;
+  width: 100%;
+}
+th, td
+{
+  text-align: left;
+  padding: 8px;
+}
+th
+{
+  background-color: #04AA6D;
+  color: white;
 }
