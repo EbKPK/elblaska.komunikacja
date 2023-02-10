@@ -93,3 +93,12 @@ th
   background-color: #5ca553;
   color: white;
 }
+#trapeze
+{
+	width: 150px;
+	height: 0;
+	border-left: 25px solid transparent;
+	border-right: 100px solid transparent;
+	border-bottom: 130px solid #F34A53;
+	margin: 0px auto 0;
+}
