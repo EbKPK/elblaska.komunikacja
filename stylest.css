@@ -49,7 +49,11 @@
     transform: scale (1,04);
     z-index: 0;
 }
-table
+.tabor
+{
+   padding-top: 250px;
+}
+.table
 {
   border-collapse: collapse;
   width: 100%;
