@@ -53,19 +53,23 @@
 {
    padding-top: 250px;
 }
-.table
+.tabor table
 {
   border-collapse: collapse;
-  width: 100%;
-  margin: 10px;
-  width: 100px;
-  height: 200px;
+  width: auto;
+  margin: auto;
+  width: 1000px;
+  height: 300px;
+  font-size: 20px;
 }
 th, td
 {
   text-align: left;
   padding: 8px;
 }
+
+tr:nth-child(even){background-color: #f2f2f2}
+
 th
 {
   background-color: #5ca553;
