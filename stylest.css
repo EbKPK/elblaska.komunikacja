@@ -66,6 +66,15 @@
   height: 300px;
   font-size: 20px;
 }
+.tabor2 table
+{
+  border-collapse: collapse;
+  width: auto;
+  margin: auto;
+  width: 1000px;
+  height: 150px;
+  font-size: 20px;
+}
 th, td
 {
   text-align: left;
