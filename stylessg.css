@@ -109,11 +109,12 @@
   height: auto;
 }
 
-.opis
+.opis2
 {
   font-family: Arial;
   padding: 15px;
   text-align: center;
+  text-size: 30px;
 }
    .gallery:hover
 {
