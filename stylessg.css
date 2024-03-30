@@ -114,7 +114,14 @@
   font-family: Arial;
   padding: 15px;
   text-align: center;
-  text-size: 30px;
+  text-size: 45px;
+}
+.opism
+{
+  font-family: Arial;
+  padding: 15px;
+  text-align: center;
+  text-size: 15px;
 }
    .gallery:hover
 {
