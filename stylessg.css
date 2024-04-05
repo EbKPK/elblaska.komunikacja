@@ -95,11 +95,11 @@
 }
 .gallery
 {
-  margin: 50px;
+  margin: 15px;
   border-radius: 10px;
-  border: 5px solid #5ca553;
+  border: 5px solid #FFFF99;
   display: inline-block;
-  width: 360px;
+  width: 400px;
   transition: transform .5s;
 }
 
@@ -124,10 +124,4 @@
   padding-right: 0px;
   text-align: right;
   font-size: 15px;
-}
-   .gallery:hover
-{
-  -ms-transform: scale(1.2, 1.2);
-  -webkit-transform: scale(1.2, 1.2);
-  transform: scale(1.2, 1.2);
 }
